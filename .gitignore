@@ -1,0 +1,12 @@
+# checkpoints and run outputs
+*.ckpt
+weights/
+results/
+outputs/
+wandb/
+lightning_logs/
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
